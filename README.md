@@ -1,6 +1,6 @@
 # portfolio
 <div id="header" align="center">
-  <img src="https://i.ytimg.com/vi/4dlxNGLk8Nk/maxresdefault.jpg?7857057827" width="100"/>
+  <img src="https://i.ytimg.com/vi/4dlxNGLk8Nk/maxresdefault.jpg?7857057827" width="200"/>
 </div>
 
 <div id="badges">
